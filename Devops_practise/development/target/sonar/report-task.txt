@@ -1,0 +1,6 @@
+projectKey=com.dell:development
+serverUrl=http://localhost:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://localhost:9000/dashboard?id=com.dell%3Adevelopment
+ceTaskId=AXrSP1sAlbXVF3c_ga3a
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXrSP1sAlbXVF3c_ga3a
